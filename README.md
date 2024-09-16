@@ -1,11 +1,11 @@
 # O'Rly Generator
 
 ![](https://badgen.net/badge/version/1.4.0/blue)
-[![License](https://img.shields.io/github/license/ArthurBeaulieu/ORlyGenerator.svg)](https://github.com/ArthurBeaulieu/ORlyGenerator/blob/master/LICENSE.md)
+[![License](https://img.shields.io/github/license/xumes/ORlyGenerator.svg)](https://github.com/xumes/ORlyGenerator/blob/master/LICENSE.md)
 
 Want to make your own nerd O'Rly meme? You know, those ironic book covers that mimic the [O'Reilley](https://www.oreilly.com/) style?
 
-[See it live](https://arthurbeaulieu.github.io/ORlyGenerator/)!
+[See it live](https://xumes.github.io/ORlyGenerator/)!
 
 Featuring 53 base images and 17 predefined colors, don't limit your imagination to make the perfect meme! All text fields are customizable, so is positioning and color. You can also browse the 58 existing O'Rly books cover found on the web if you're too lazy to make your own. Once your meme is ready, you can download the output as a high resolution PNG to impress your colleagues or friends!
 
